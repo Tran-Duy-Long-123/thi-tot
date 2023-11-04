@@ -1,8 +1,8 @@
 const nameGirl = 'Em';
 const giftUrl = 'https://www.facebook.com/profile.php?id=100075801001754';
 const eventName = 'Chúc mai thi tốt hehe';
-const titleCard = 'Tặng người ấy';
-const contentCard = 'Chúc em mai thi tốt nhá. Bình tĩnh tự tin chiến thắng. chúc giang sớm gặp k69 :V';
+const titleCard = 'hoho em ';
+const contentCard = 'Chúc em mai thi tốt nhá. Bình tĩnh tự tin chiến thắng. Mọi thứ sẽ ổn thôi ';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
